@@ -1,0 +1,20 @@
+{
+  "name": "cc-icons",
+  "repo": "richardba/cc-icons",
+  "description": "Creative Commons Web Fonts",
+  "version": "0.1.0",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "CC BY 3.0",
+  "styles": [
+    "css/cc-icons.css"
+  ],
+  "fonts": [
+    "fonts/cc-icons.eot",
+    "fonts/cc-icons.svg",
+    "fonts/cc-icons.ttf",
+    "fonts/cc-icons.woff",
+    "fonts/cc-icons.otf"
+  ]
+}

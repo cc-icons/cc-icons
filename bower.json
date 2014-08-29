@@ -1,0 +1,23 @@
+{
+"name": "cc-icons",
+"description": "CSS framework for Creative Commons logo",
+"version": "0.1.0",
+"keywords": ["font", "creative", "commons", "icon", "font", "bootstrap"],
+"homepage": "https://github.com/richardba/cc-icons",
+"dependencies": {},
+"devDependencies": {},
+"license": ["CC-BY-3.0"],
+"main": [
+"./css/*",
+"./fonts/*"
+],
+"ignore": [
+"*/.*",
+"*.json",
+"src",
+"*.yml",
+"Gemfile",
+"Gemfile.lock",
+"*.md"
+]
+}
