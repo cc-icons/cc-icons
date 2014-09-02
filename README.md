@@ -10,7 +10,7 @@ created and maintained by [Ricardo Barros](http://twitter.com/richardba).
   
 ##Versioning
 
-Font Awesome will be maintained under the Semantic Versioning guidelines as much as possible. Releases will be numbered
+Creative Commons Web Fonts will be maintained under the Semantic Versioning guidelines as much as possible. Releases will be numbered
 with the following format:
 
 `<major>.<minor>.<patch>`
@@ -39,7 +39,7 @@ Or add
 
 to the `dependencies` in your `component.json`.
 
-## Hacking on Font Awesome
+## Hacking on Creative Commons Web Fonts
 
 From the root of the repository, install the tools used to develop.
 
