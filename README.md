@@ -7,10 +7,12 @@ created and maintained by [Ricardo Barros](http://twitter.com/richardba).
 ##License
 - Creative Commons Web Fonts documentation is licensed under the CC BY 3.0 License:
   - http://creativecommons.org/licenses/by/3.0/
+  
 ##Changelog
 - v0.2.0 - Released font with all logos and glyphs for Creative Commons. Control classes in the works.
 - v0.1.1 - Based on files by [Font Awesome] (https://github.com/FortAwesome/Font-Awesome), updated README.md file along with initial CSS control classes
 - v0.1.0 - Initial release with simple glyphs, and no CSS control classes.
+
 ##Versioning
 
 Creative Commons Web Fonts will be maintained under the Semantic Versioning guidelines as much as possible. Releases will be numbered
