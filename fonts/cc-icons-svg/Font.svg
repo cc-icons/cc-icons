@@ -15,7 +15,7 @@
    id="svg5496"
    sodipodi:version="0.32"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="cc-icons.svg"
+   sodipodi:docname="Font.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <metadata
      id="metadata5594">
@@ -41,9 +41,9 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="22.627417"
-     inkscape:cx="528.52794"
-     inkscape:cy="488.25551"
+     inkscape:zoom="0.5"
+     inkscape:cx="-703.63928"
+     inkscape:cy="674.19559"
      inkscape:window-x="-5"
      inkscape:window-y="-5"
      inkscape:current-layer="svg5496"
@@ -58,22 +58,22 @@
        inkscape:persp3d-origin="500 : 333.33333 : 1"
        id="perspective3931" />
     <font
-       horiz-adv-x="70"
+       horiz-adv-x="1400"
        id="font3933"
        inkscape:label="Creative Commons">
       <font-face
          id="cc-icons"
          font-family="Creative Commons"
-		font-weight="400"
-		font-stretch="normal"
-		units-per-em="1400"
-		panose-1="2 0 5 3 0 0 0 0 0 0"
-		ascent="1200"
-		descent="-200"
-		bbox="-0.00976562 -8 3040.99 1121"
-		underline-thickness="1120"
-		underline-position="420"
-		unicode-range="U+0020-U+00FF"/>
+         font-weight="400"
+         font-stretch="normal"
+         units-per-em="1400"
+         panose-1="2 0 5 3 0 0 0 0 0 0"
+         ascent="1200"
+         descent="-200"
+         bbox="-0.00976562 -8 3040.99 1121"
+         underline-thickness="1120"
+         underline-position="420"
+         unicode-range="U+0020-U+00FF" />
       <missing-glyph
          d="m 529.711,493.42795 0,10e-6"
          id="missing-glyph3937" />

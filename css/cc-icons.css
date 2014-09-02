@@ -7,3 +7,184 @@
 	font-style: normal;
 }
 
+.cc
+{
+	-moz-font-feature-settings: normal;
+    -moz-font-language-override: normal;
+    display: inline-block;
+    font-family: cc-icons;
+    font-size: inherit;
+    font-size-adjust: none;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    text-rendering: auto;
+}
+
+/* makes the font 33% larger relative to the icon container */
+.cc-lg {
+  font-size: 1.33333333em;
+  line-height: 0.75em;
+  vertical-align: -15%;
+}
+.cc-2x {
+  font-size: 2em;
+}
+.cc-3x {
+  font-size: 3em;
+}
+.cc-4x {
+  font-size: 4em;
+}
+.cc-5x {
+  font-size: 5em;
+}
+.cc-fw {
+  width: 1.28571429em;
+  text-align: center;
+}
+.cc-ul {
+  padding-left: 0;
+  margin-left: 2.14285714em;
+  list-style-type: none;
+}
+.cc-ul > li {
+  position: relative;
+}
+.cc-li {
+  position: absolute;
+  left: -2.14285714em;
+  width: 2.14285714em;
+  top: 0.14285714em;
+  text-align: center;
+}
+.cc-li.cc-lg {
+  left: -1.85714286em;
+}
+.cc-border {
+  padding: .2em .25em .15em;
+  border: solid 0.08em #eeeeee;
+  border-radius: .1em;
+}
+.pull-right {
+  float: right;
+}
+.pull-left {
+  float: left;
+}
+.cc.pull-left {
+  margin-right: .3em;
+}
+.cc.pull-right {
+  margin-left: .3em;
+}
+.cc-spin {
+  -webkit-animation: cc-spin 2s infinite linear;
+  animation: cc-spin 2s infinite linear;
+}
+@-webkit-keyframes cc-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+@keyframes cc-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+.cc-rotate-90 {
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
+  -webkit-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+.cc-rotate-180 {
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=2);
+  -webkit-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+.cc-rotate-270 {
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+  -webkit-transform: rotate(270deg);
+  -ms-transform: rotate(270deg);
+  transform: rotate(270deg);
+}
+.cc-flip-horizontal {
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1);
+  -webkit-transform: scale(-1, 1);
+  -ms-transform: scale(-1, 1);
+  transform: scale(-1, 1);
+}
+.cc-flip-vertical {
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1);
+  -webkit-transform: scale(1, -1);
+  -ms-transform: scale(1, -1);
+  transform: scale(1, -1);
+}
+:root .cc-rotate-90,
+:root .cc-rotate-180,
+:root .cc-rotate-270,
+:root .cc-flip-horizontal,
+:root .cc-flip-vertical {
+  filter: none;
+}
+.cc-stack {
+  position: relative;
+  display: inline-block;
+  width: 2em;
+  height: 2em;
+  line-height: 2em;
+  vertical-align: middle;
+}
+.cc-stack-1x,
+.cc-stack-2x {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  text-align: center;
+}
+.cc-stack-1x {
+  line-height: inherit;
+}
+.cc-stack-2x {
+  font-size: 2em;
+}
+.cc-inverse {
+  color: #ffffff;
+}
+
+/*Share Alike*/
+.cc-sa:before {
+  content: "\0061";
+}
+
+/*Attribution*/
+.cc-by:before {
+  content: "\0062";
+}
+.cc-cc:before {
+  content: "\0063";
+}
+.cc-nd:before {
+  content: "\0064";
+}
+.cc-nc:before {
+  content: "\006E";
+}
+
+.cc-sa:before {
+  content: "\97";
+}
