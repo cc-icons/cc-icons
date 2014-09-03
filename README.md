@@ -9,6 +9,7 @@ created and maintained by [Ricardo Barros](http://twitter.com/richardba).
   - http://creativecommons.org/licenses/by/3.0/
   
 ##Changelog
+- v1.0.0 - Fully functional library.
 - v0.2.0 - Released font with all logos and glyphs for Creative Commons. Control classes in the works.
 - v0.1.1 - Based on files by [Font Awesome] (https://github.com/FortAwesome/Font-Awesome), updated README.md file along with initial CSS control classes
 - v0.1.0 - Initial release with simple glyphs, and no CSS control classes.
