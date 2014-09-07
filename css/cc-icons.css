@@ -268,7 +268,11 @@ Round Icons
 }
 
 /* Remix */
+<<<<<<< HEAD
 .cc-pd-remix:before
+=======
+.cc-remix:before
+>>>>>>> 00f1081
 {
  content: "\0072";
 }
