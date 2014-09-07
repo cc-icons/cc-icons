@@ -6,7 +6,7 @@
   "keywords": [],
   "dependencies": {},
   "development": {},
-  "license": "CC BY 3.0",
+  "license": {"CC-BY-4.0","MIT"},
   "styles": [
     "css/cc-icons.css"
   ],

@@ -3,9 +3,9 @@
 "description": "CSS framework for Creative Commons logo",
 "version": "0.1.0",
 "keywords": ["font", "creative", "commons", "icon", "font", "bootstrap"],
-"homepage": "https://github.com/richardba/cc-icons",
+"homepage": "https://github.com/cc-icons/cc-icons",
 "bugs": {
-"url" : "https://github.com/richardba/cc-icons/issues"
+"url" : "https://github.com/cc-icons/cc-icons/issues"
 },
 "author": {
 "name": "Ricardo Barros",
@@ -14,12 +14,16 @@
 },
 "repository": {
 "type": "git",
-"url": "https://github.com/richardba/cc-icons.git"
+"url": "https://github.com/cc-icons/cc-icons.git"
 },
 "licenses": [
 {
-"type": "CC-BY-3.0",
-"url": "http://creativecommons.org/licenses/by/3.0/"
+"type": "CC-BY-4.0",
+"url": "http://creativecommons.org/licenses/by/4.0/"
+},
+{
+"type": "MIT",
+"url": "http://opensource.org/licenses/mit-license.html"
 }
 ],
 "dependencies": {

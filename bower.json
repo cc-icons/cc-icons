@@ -3,10 +3,10 @@
 "description": "CSS framework for Creative Commons logo",
 "version": "0.1.0",
 "keywords": ["font", "creative", "commons", "icon", "font", "bootstrap"],
-"homepage": "https://github.com/richardba/cc-icons",
+"homepage": "https://github.com/cc-icons/cc-icons",
 "dependencies": {},
 "devDependencies": {},
-"license": ["CC-BY-3.0"],
+"license": [{"CC-BY-4.0","MIT"}],
 "main": [
 "./css/*",
 "./fonts/*"
