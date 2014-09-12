@@ -11,6 +11,7 @@ created and maintained by [Ricardo Barros](http://twitter.com/richardba).
   - http://opensource.org/licenses/mit-license.html
   
 ##Changelog
+- v1.2.0 - Fix font width and height, as well as horizontal and vertical centering.
 - v1.0.1 - Minor font height fixes.
 - v1.0.0 - Fully functional library.
 - v0.2.0 - Released font with all logos and glyphs for Creative Commons. Control classes in the works.
