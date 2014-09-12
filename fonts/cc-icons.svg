@@ -6,12 +6,12 @@ Created by FontForge 20131121 at Fri Sep 12 16:12:10 2014
 
 </metadata>
 <defs>
-<font id="cc-icons" horiz-adv-x="70" >
+<font id="cc-icons" horiz-adv-x="70" vert-adv-y="1200">
   <font-face 
     font-family="Creative Commons"
     font-weight="400"
     font-stretch="normal"
-    units-per-em="1400"
+    units-per-em="1200"
     panose-1="2 0 5 3 0 0 0 0 0 0"
     ascent="1200"
     descent="-200"
