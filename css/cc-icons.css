@@ -2,7 +2,7 @@
 { 
  font-family: 'cc-icons';
  src: url('../fonts/cc-icons.eot'); 
- src: local('cc-icons'), url('../fonts/cc-icons.otf') format('opentype') url('../fonts/cc-icons.woff') format('woff'),url('../fonts/cc-icons.ttf') format('truetype'), url('../fonts/cc-icons.svg') format('svg'); 
+ src: local('cc-icons'), url('../fonts/cc-icons.otf') format('opentype'), url('../fonts/cc-icons.woff') format('woff'),url('../fonts/cc-icons.ttf') format('truetype'), url('../fonts/cc-icons.svg') format('svg'); 
  font-weight: normal;
  font-style: normal;
 }
