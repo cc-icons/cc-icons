@@ -11,6 +11,7 @@ created and maintained by [Ricardo Barros](http://twitter.com/richardba).
   - http://opensource.org/licenses/mit-license.html
   
 ##Changelog
+- v1.2.1 - Minor fix for chrome rendering.
 - v1.2.0 - Fix font width and height, as well as horizontal and vertical centering.
 - v1.0.1 - Minor font height fixes.
 - v1.0.0 - Fully functional library.
