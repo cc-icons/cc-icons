@@ -6,7 +6,7 @@
 "homepage": "https://github.com/cc-icons/cc-icons",
 "dependencies": {},
 "devDependencies": {},
-"license": [{"CC-BY-4.0","MIT"}],
+"license": ["CC-BY-4.0", "MIT"],
 "main": [
 "./css/*",
 "./fonts/*"
