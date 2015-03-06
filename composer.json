@@ -16,7 +16,7 @@
 "dev-master": "0.1.x-dev"
 }
 },
-"license": [{"CC-BY-4.0","MIT"}],
+"license": ["CC-BY-4.0","MIT"],
 "require-dev": {
 "jekyll": "1.0.2",
 "lessc": "1.4.2"
