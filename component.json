@@ -2,11 +2,11 @@
   "name": "cc-icons",
   "repo": "richardba/cc-icons",
   "description": "Creative Commons Web Fonts",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "keywords": [],
   "dependencies": {},
   "development": {},
-  "license": {"CC-BY-4.0","MIT"},
+  "license": ["CC-BY-4.0", "MIT"],
   "styles": [
     "css/cc-icons.css"
   ],
