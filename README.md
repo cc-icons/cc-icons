@@ -2,15 +2,16 @@ Creative Commons Web Fonts
 ======
 
 Creative Commons Web Fonts is a suite of pictographic Creative Commons icons for easy scalable vector graphics,
-created and maintained by [Ricardo Barros](http://twitter.com/richardba).
+created and maintained by [Ricardo Barros](http://twitter.com/richardba). An overview of using the icons is located
+[here](http://cc-icons.github.io/installation/).
 
-##License
+## License
 - Creative Commons Web Fonts project and documentation is licensed under the CC BY 4.0 License:
   - http://creativecommons.org/licenses/by/4.0/
 - Creative Commons Web Fonts source code is licensed under MIT License:
   - http://opensource.org/licenses/mit-license.html
   
-##Changelog
+## Changelog
 - v1.2.1 - Minor fix for chrome rendering.
 - v1.2.0 - Fix font width and height, as well as horizontal and vertical centering.
 - v1.0.1 - Minor font height fixes.
@@ -19,7 +20,7 @@ created and maintained by [Ricardo Barros](http://twitter.com/richardba).
 - v0.1.1 - Based on files by [Font Awesome] (https://github.com/FortAwesome/Font-Awesome), updated README.md file along with initial CSS control classes
 - v0.1.0 - Initial release with simple glyphs, and no CSS control classes.
 
-##Versioning
+## Versioning
 
 Creative Commons Web Fonts will be maintained under the Semantic Versioning guidelines as much as possible. Releases will be numbered
 with the following format:
@@ -34,12 +35,12 @@ And constructed with the following guidelines:
 
 For more information on SemVer, please visit http://semver.org.
 
-##Author
+## Author
 - Email: richardtrle at gmail dot com
 - Twitter: http://twitter.com/richardba
 - GitHub: https://github.com/richardba
 
-##Component
+## Component
 To include as a [component](http://github.com/component/component), just run
 
     $ component install richardba/cc-icons
