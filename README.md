@@ -2,7 +2,8 @@ Creative Commons Web Fonts
 ======
 
 Creative Commons Web Fonts is a suite of pictographic Creative Commons icons for easy scalable vector graphics,
-created and maintained by [Ricardo Barros](http://twitter.com/richardba).
+created and maintained by [Ricardo Barros](http://twitter.com/richardba). An overview of using the icons is located
+[here](http://cc-icons.github.io/installation/).
 
 ## License
 - Creative Commons Web Fonts project and documentation is licensed under the CC BY 4.0 License:
